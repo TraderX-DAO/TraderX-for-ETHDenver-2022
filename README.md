@@ -1,4 +1,5 @@
-# TraderX - A DeFi Project designed and developed for ETHDenver 2022 Virtual BUIDLathon
+# TraderX
+## A DeFi Project designed and developed for ETHDenver 2022 Virtual BUIDLathon
 ***
 
 ![TraderX Logo](/img/logo_large.png "TraderX Logo")
