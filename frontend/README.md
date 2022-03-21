@@ -28,13 +28,3 @@ connection and contracts, read from the contract's state, and send transactions.
 You can use the `Dapp` component as a starting point for your project. It has
 comments explaining each part of its code, and indicating what's specific to
 this project, and what can be reused.
-
-
-
-## Feedback, help and news
-
-Feel free to reach us through this repository.
-
-Also you can [follow us on Twitter](https://twitter.com/<To_Be_Added>).
-
-**Happy _building_!**
