@@ -7,7 +7,7 @@
 ## TraderX Walkthrough DEMO Video
 
 A demo video walking-through of this project can be found here:
-(https://youtu.be/<To_be_added>)
+(https://www.youtube.com/watch?v=eSCwog6r5gc)
 
 ## Project Description
 
