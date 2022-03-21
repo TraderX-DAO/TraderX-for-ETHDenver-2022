@@ -1,0 +1,46 @@
+{
+  "name": "TraderX",
+  "version": "1.0.0",
+  "description": "A DeFi project designed and developed for ETHDenver 2022 Virtual BUIDLathon",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "hardhat test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TraderX-DAO/TraderX-for-ETHDenver-2022.git"
+  },
+  "keywords": [
+    "defi",
+    "ethereum",
+    "ethedenver",
+    "hackathon",
+    "buidlathon",
+    "hardhat"
+  ],
+  "author": "0x0xYY (Yue)",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "https://github.com/TraderX-DAO/TraderX-for-ETHDenver-2022#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "chai": "^4.2.0",
+    "ethereum-waffle": "^3.1.1",
+    "ethers": "^5.0.0",
+    "hardhat": "^2.3.0",
+    "husky": "^4.2.5"
+  },
+  "dependencies": {
+    "@1inch/limit-order-protocol": "^2.0.3",
+    "@aave/protocol-v2": "^1.0.1",
+    "@openzeppelin/contracts": "^3.1.0",
+    "@uniswap/v2-core": "^1.0.1",
+    "@uniswap/v2-periphery": "^1.1.0-beta.0",
+    "dotenv": "^16.0.0"
+  }
+}
