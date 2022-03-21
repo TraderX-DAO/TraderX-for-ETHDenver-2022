@@ -1,5 +1,5 @@
 # TraderX
-## A DeFi Project designed and developed for ETHDenver 2022 Virtual BUIDLathon
+##* A DeFi Project designed and developed for ETHDenver 2022 Virtual BUIDLathon
 ***
 
 ![TraderX Logo](/img/logo_large.png "TraderX Logo")
@@ -26,6 +26,9 @@ A repository for all pre-built and automated TraderX investment strategies, wher
 ### Bot Setup
 
 Center of the dApp, where investors can build their own smart TraderX BOTs following the steps below:
+
+![Bot Setup Screen 1](/img/Mockup_Screen_1.png "Bot Setup Screen 1")
+![Bot Setup Screen 2](/img/Mockup_Screen_2.png "Bot Setup Screen 2")
 
 #### Step 1: 
 
